@@ -1,0 +1,2 @@
+# DV-project
+This project aims to build a machine learning model that predicts house prices in Pune, India. The prediction model is based on various factors such as square footage (total area), the number of bedrooms (BHK), the number of bathrooms, and the proximity to important localities, like railway stations and airports. The model uses a dataset containing information about properties from different neighborhoods of Pune, with features indicating their location and structural attributes.
